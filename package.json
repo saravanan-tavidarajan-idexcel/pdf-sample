@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@dsardar099/pdf-to-html": "^1.0.6",
+    "@pdftron/data-extraction": "^10.5.0",
+    "@pdftron/pdfnet-node": "^10.5.0",
+    "asposepdfcloud": "^23.11.0",
+    "axios": "^1.6.7",
+    "convertapi": "^1.13.0",
+    "html-pdf-node": "^1.0.8",
+    "java-with-jre": "^0.1.7",
+    "jsdom": "^16.4.0",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^3.3.2",
+    "node-jre": "^0.2.3",
+    "pdf-parse": "^1.1.1",
+    "pdf2html": "^3.1.0",
+    "pdfcrowd": "^5.17.0",
+    "pdftohtmljs": "^0.6.0",
+    "puppeteer": "^21.3.8",
+    "@sparticuz/chromium": "^117.0.0"
+  },
+  "name": "scribble-book",
+  "version": "1.0.0",
+  "description": "Scribble book",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
